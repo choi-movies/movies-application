@@ -2,5 +2,8 @@
   "name": "movies-application",
   "version": "1.0.0",
   "dependencies": {
+  },
+  "scripts": {
+    "db": "json-server -d1200 --watch data/movies.json"
   }
 }

@@ -1,0 +1,14 @@
+.button-row {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.movies-card-container {
+    display: flex;
+}
+
+.update-button {
+    margin-right: 10px;
+}
+

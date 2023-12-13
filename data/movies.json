@@ -1,0 +1,24 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Shrek",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "title": "this ",
+      "rating": "4"
+    },
+    {
+      "id": 5,
+      "title": "testupdate",
+      "rating": "5"
+    },
+    {
+      "id": 6,
+      "title": "testsdfadf",
+      "rating": "4"
+    }
+  ]
+}
